@@ -17,7 +17,6 @@ def generate_image(prompt) :
     result_format = {"generation_successful":False, "image":None}
 
     if image_bytes.status_code == 200 :
-        print(image_bytes.content)
         
         image = Image.open(io.BytesIO(image_bytes.content))
         
