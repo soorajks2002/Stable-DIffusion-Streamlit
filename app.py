@@ -5,9 +5,9 @@ import stable_diffusion_xl_refiner_1
 from PIL import Image
 
 favicon = Image.open('favicon.ico')
-st.set_page_config(page_title="Stable Diffusion", page_icon=favicon, layout='wide')
+st.set_page_config(page_title="Stable Diffusion WebUI", page_icon=favicon, layout='wide')
 
-st.title("Stable Diffusion")
+st.title("Stable Diffusion WebUI")
 
 col1, col2 = st.columns(2)
 
