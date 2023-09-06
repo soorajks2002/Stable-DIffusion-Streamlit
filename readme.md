@@ -4,7 +4,7 @@ A simple web based UI to test different Stable Diffusion models from StabilityAI
 
 ## Demo
 
-https://github.com/soorajks2002/Stable-DIffusion-WebUI/assets/59795959/5c16f04c-11e2-494b-80b4-0f240179763f
+https://github.com/soorajks2002/Stable_Diffusion_WebUI/assets/59795959/cd834d8c-e417-405e-bbef-2f35a3e2553d
 
 ## Run Locally
 
