@@ -1,1 +1,1 @@
-hugging_face_api_key = "your hugging face api key"
+hugging_face_api_key = "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"
