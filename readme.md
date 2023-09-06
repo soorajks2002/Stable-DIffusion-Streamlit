@@ -1,9 +1,9 @@
-
 # Stable Diffusion WebUI
 
 A simple web based UI to test different Stable Diffusion models from StabilityAI.
 
 ## Demo
+
 https://github.com/soorajks2002/Stable-DIffusion-WebUI/assets/59795959/5c16f04c-11e2-494b-80b4-0f240179763f
 
 ## Run Locally
@@ -35,14 +35,21 @@ Add your HuggingFace api key
 
 if you dont'have an acccess token, generate one from [here](https://huggingface.co/settings/tokens).
 
-Start the server
+Start the application
 
 ```bash
 streamlit run app.py
 ```
 
-
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/soorajks2002/Stable-DIffusion-WebUI/blob/master/Screenshots/Screenshot%201.png?raw=true)
 
+
+![App Screenshot](https://github.com/soorajks2002/Stable-DIffusion-WebUI/blob/master/Screenshots/Screenshot%202.png?raw=true)
+
+![App Screenshot](https://github.com/soorajks2002/Stable-DIffusion-WebUI/blob/master/Screenshots/Screenshot%203.png?raw=true)
+
+![App Screenshot](https://github.com/soorajks2002/Stable-DIffusion-WebUI/blob/master/Screenshots/Screenshot%204.png?raw=true)
+
+![App Screenshot](https://github.com/soorajks2002/Stable-DIffusion-WebUI/blob/master/Screenshots/Screenshot%205.png?raw=true)
