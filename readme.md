@@ -11,7 +11,7 @@ https://github.com/soorajks2002/Stable_Diffusion_WebUI/assets/59795959/cd834d8c-
 Clone the project
 
 ```bash
-git clone https://github.com/soorajks2002/Stable-DIffusion-WebUI
+git clone https://github.com/soorajks2002/Stable_Diffusion_WebUI.git
 ```
 
 Go to the project directory
